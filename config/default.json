@@ -1,0 +1,6 @@
+{
+    "port": "5000",
+    "jwtSecret": "artsem youtube mern",
+    "mongoUri": "mongodb+srv://Artsem:1q2w3e4r@cluster0.k1v6v.mongodb.net/mern-youtube",
+    "baseUrl": "http://localhost:5000"
+}
